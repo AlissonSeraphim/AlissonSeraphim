@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋, aqui está alguns dados sobre mim: 
 
 ```sh
 const aboutMe = {
@@ -18,3 +18,5 @@ const aboutMe = {
     status: 'Keep In Working'
 }
 ```
+
+## Continuo em desenvolvimento, perfil em contrução.
