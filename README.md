@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```sh
 const aboutMe = {
     firstName: 'Alisson',
     lastName: 'Tassi',
@@ -16,3 +17,4 @@ const aboutMe = {
     }
     status: 'Keep In Working'
 }
+```
