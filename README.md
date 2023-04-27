@@ -9,7 +9,8 @@ const aboutMe = {
     askMeAbout: ['student', 'web dev', 'trybe', 'music', 'games', 'chemical', 'engineering', 'korean-series', 'korean-music'],
     technologies: {
         frontEnd: {
-            css: ['bootstrap']   
+            css: ['bootstrap', 'Tailwind', 'Material UI'],
+            React: [Testing Library, Redux, Hooks, Router, Class Components],
         },
         backEnd: {
             js: ['jest']
