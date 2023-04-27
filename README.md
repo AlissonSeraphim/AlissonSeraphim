@@ -10,7 +10,7 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             css: ['bootstrap', 'Tailwind', 'Material UI'],
-            React: [Testing Library, Redux, Hooks, Router, Class Components],
+            React: ['Testing-Library', 'Redux', 'Hooks', 'Router', 'Class-components'],
         },
         backEnd: {
             js: ['jest']
