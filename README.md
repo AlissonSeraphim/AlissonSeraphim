@@ -5,12 +5,12 @@ const aboutMe = {
     firstName: 'Alisson',
     lastName: 'Tassi',
     age: 23,
-    code: [HTML, CSS, Javascript],
-    askMeAbout: ['student', 'web dev', 'trybe', 'music', 'games', 'chemical', 'engineering', 'korean-series', 'korean-music'],
+    code: [HTML, CSS, Javascript (ES6)],
+    askMeAbout: ['student', 'web dev', 'trybe', 'music', 'games', 'chemical', 'engineering'],
     technologies: {
         frontEnd: {
-            css: ['bootstrap', 'Tailwind', 'Material UI'],
-            React: ['Testing-Library', 'Redux', 'Hooks', 'Router', 'Class-components'],
+            css: ['Bootstrap', 'Tailwind', 'Material UI', 'CSS Modules'],
+            React: ['Testing-Library', 'Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
         backEnd: {
             js: ['jest']
