@@ -6,15 +6,16 @@ const aboutMe = {
     lastName: 'Tassi',
     age: 23,
     code: [HTML, CSS, Javascript (ES6)],
-    askMeAbout: ['student', 'web dev', 'trybe', 'music', 'games', 'chemical', 'engineering'],
+    askMeAbout: ['student', 'web dev', 'trybe', , 'full-stack', 'IA', 'music', 'games', 'chemical', 'engineering'],
     technologies: {
         frontEnd: {
             css: ['Bootstrap', 'Tailwind', 'Material UI', 'CSS Modules'],
             React: ['Testing-Library', 'Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
-        backEnd: {
-            js: ['jest']
-        }
+        backEnd: [
+        Docker,
+        MySQL,
+        ],
     }
     status: 'Keep In Working'
 }
