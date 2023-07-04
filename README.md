@@ -12,7 +12,7 @@ const aboutMe = {
             css: ['Bootstrap', 'Tailwind', 'Material UI', 'CSS Modules'],
             React: ['Testing-Library', 'Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
-        backEnd: [ Docker, MySQL, ... ],  // Im progressing here //
+        backEnd: [ Docker, MySQL, Node.js, Express, ... ],  // Im progressing here //
     }
     status: 'Keep In Working'
 }
