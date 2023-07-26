@@ -14,9 +14,9 @@ const aboutMe = {
         },
         backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', ... ],  // Im progressing here //
         test: ['Jest', 'Mocha', 'Chai', 'Sinon', 'React Testing Library', 'Stryker', 'TDD', 'Unit Tests', ...], // and here //
-    }
-    status: 'Keep In Working'
-}
+    },
+    status: 'Keep In Working',
+};
 ```
 
 ### Continuo em desenvolvimento, perfil em construção.
