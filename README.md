@@ -12,7 +12,7 @@ const aboutMe = {
             css: ['Bootstrap', 'TailwindCSS', 'Material UI', 'CSS Modules', 'Native Base'],
             React: ['Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
-        backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', 'POO/OOP', SOLID ],
+        backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', 'POO/OOP', 'SOLID' ],
         test: ['Jest', 'Mocha', 'Chai', 'Sinon', 'React Testing Library', 'Stryker', 'TDD', 'Unit Tests', ...],
         computerScience: [ 'Python', 'Data Structure', 'Algorithms', ... ], // Im progressing here //
     },
