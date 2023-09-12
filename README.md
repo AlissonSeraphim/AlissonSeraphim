@@ -9,11 +9,12 @@ const aboutMe = {
     askMeAbout: ['student', 'web dev', 'trybe', , 'full-stack', 'IA', 'music', 'games', 'chemical', 'engineering'],
     technologies: {
         frontEnd: {
-            css: ['Bootstrap', 'TailwindCSS', 'Material UI', 'CSS Modules'],
+            css: ['Bootstrap', 'TailwindCSS', 'Material UI', 'CSS Modules', 'Native Base'],
             React: ['Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
-        backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', ... ],  // Im progressing here //
-        test: ['Jest', 'Mocha', 'Chai', 'Sinon', 'React Testing Library', 'Stryker', 'TDD', 'Unit Tests', ...], // and here //
+        backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', 'POO/OOP', SOLID ],
+        test: ['Jest', 'Mocha', 'Chai', 'Sinon', 'React Testing Library', 'Stryker', 'TDD', 'Unit Tests', ...],
+        computerScience: [ 'Python', 'Data Structure', 'Algorithms', ... ], // Im progressing here //
     },
     status: 'Keep In Working',
 };
