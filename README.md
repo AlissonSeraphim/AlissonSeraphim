@@ -4,7 +4,7 @@
 const aboutMe = {
     firstName: 'Alisson',
     lastName: 'Tassi',
-    age: 23,
+    age: 25,
     code: [HTML, CSS, Javascript (ES6), TypeScript],
     askMeAbout: ['student', 'web dev', 'trybe', 'full-stack', 'IA', 'music', 'games', 'chemical', 'engineering'],
     technologies: {
@@ -13,6 +13,7 @@ const aboutMe = {
             React: ['Redux', 'ContextAPI', 'Hooks', 'Router', 'Class-components'],
         },
         backEnd: [ 'Docker', 'MySQL', 'Node.js', 'Express', 'ORM', 'Sequelize', 'POO/OOP', 'SOLID', 'RabbitMQ', 'Redis', 'AWS', 'PM2' ],
+        mobile: 'React-Native (IOS & Android)',
         test: ['Jest', 'Mocha', 'Chai', 'Sinon', 'React Testing Library', 'Stryker', 'TDD', 'Unit Tests'],
         computerScience: [ 'Python', 'Data Structure', 'Algorithms' ],
     },
